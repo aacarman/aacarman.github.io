@@ -1,0 +1,247 @@
+{
+  "basics": {
+    "name": "Aaron B. Carman",
+    "label": "Electrical Engineer",
+    "image": "",
+    "email": "aaron.b.carman@ttu.edu",
+    "phone": "+1 (325) 226-4845",
+    "url": "https://aacarman.github.io",
+    "summary": "A dedicated RF engineer with a focus in novel radar technologies for next-generation sensing."
+  },
+  "work": [
+    {
+      "name": "RF/Analog Research Group, Texas Tech University",
+      "position": "Research Assistant",
+      "url": "https://clilab.github.io/",
+      "startDate": "2018",
+      "endDate": "2024",
+      "summary": ["Developing and testing passive radar systems operating in the 5.8-GHz ISM band for noncontact motion and target detection leveraging ambient wireless signals. Analyzed the limitations of passive radar systems and proposed methods of maximizing the sensing ability. Developed passive radar beamforming theory using signal propagation and target models and experimentally verified the efficacy of the model using a custom-designed 16-channel beamforming passive radar. Guided visiting high school student’s experiments on using passive sensors to monitor room occupancy.", 
+                  "<br><br>Developed and experimentally verified new FMCW radar sensing architectures for dynamic analog clutter removal using feedforward cancellation leveraging microwave passive components. Developing novel circuits to create programmable true-time delay for FMCW clutter cancellation.", 
+                  "<br><br>Designed high-voltage analog CMOS circuits after implementing a private Cadence Custom IC design server to programmatically drive a 32x32 optical phased array with µm-scale pitch. Developed high-efficiency optical, phased array, and semiconductor simulations using COMSOL.", 
+                  "<br><br>Designed and analyzed a novel microwave pulse oximetry system and its interactions with biological tissue in COMSOL and unified FEM results with known radar signal models."],
+      "highlights": ["Radar Design, Signal Processing, Signal Modeling"]
+    },
+    {
+      "name": "Southwest Research Institute",
+      "position": "Student Engineer",
+      "url": "https://www.swri.org",
+      "startDate": "2019-06",
+      "endDate": "2019-08",
+      "summary": ["Led the reverse-engineering of legacy aircraft power supply schematics to characterize the operation and potential points of failure. Created specification documents after successful analysis using self-taught power electronics and electromagnetics and disseminated results to peers."],
+      "highlights": ["Power Supply Analysis, Reverse Engineering"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Science Spectrum",
+      "location": "Lubbock, TX",
+      "position": "STEM Instructor",
+      "startDate": "2022",
+      "endDate": "2023",
+      "summary": "Developed and led a two-day curriculum to introduce students as young as 8 years old to engineering and programming using the Arduino platform."
+    },
+    {
+      "organization": "Texas Tech Rawls College of Business Research Commercialization",
+      "location": "Lubbock, TX",
+      "position": "Panelist",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Served as a panelist for the Spring 2023 STEM MBA Research Commercialization unified project focusing on passive radar sensing. Answered technical questions from a non-technical audience and provided feedback to students developing business strategies to commercialize passive radar."
+    },
+    {
+      "organization": "Texas Tech Honors College Inquiry and Investigation Course",
+      "location": "Lubbock, TX",
+      "position": "Panelist/Speaker",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": "Presented to a cohort of 12 undergraduate students of multiple disciplines on the benefits of undergraduate research opportunities and served as a panelist for the Spring 2021 Honors College course on engineering research alongside industry professionals."
+    },
+    {
+      "organization": "IEEE Eta Kappa Nu, Gamma Nu Chapter",
+      "location": "Lubbock, TX",
+      "position": "President",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Organized student organization professional development and community outreach activities, coordinated responsibilities of seven student officers, and led the group to fiscal prosperity by minimizing unnecessary purchases, maximizing new membership, and instilling fiscal responsibility into the next generation of officers. Maintained the reputation of the organization by ensuring that all prospective members exhibit integrity and academic merit."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Texas Tech University",
+      "location": "Lubbock, TX",
+      "area": "Electrical Engineering",
+      "studyType": "PhD - Electrical Engineering",
+      "startDate": "2020-08",
+      "endDate": "2025-05",
+      "score": "4.00",
+      "courses": ["Dissertation: Passive Radar Sensors and Hardware Clutter Cancellation Techniques for Practical Sensing"]
+    },
+    {
+      "institution": "Texas Tech University",
+      "location": "Lubbock, TX",
+      "area": "Electrical Engineering",
+      "studyType": "B.S. - Electrical Engineering",
+      "startDate": "2016-08",
+      "endDate": "2020-05",
+      "score": "3.95",
+      "courses": ["Summa Cum Laude with Honors"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Doctoral Dissertation Completion Fellowship",
+      "date": "2024-08",
+      "awarder": "Texas Tech University"
+    },
+    {
+      "title": "Doctoral Engineering Scholarship",
+      "date": "2023-08",
+      "awarder": "Society of Automotive Engineers"
+    },
+    {
+      "title": "Graduate Fellowship",
+      "date": "2023-08",
+      "awarder": "NXP Foundation"
+    },
+    {
+      "title": "Graduate Research Fellowship Program Honorable Mention",
+      "date": "2021-04",
+      "awarder": "National Science Foundation"
+    },
+    {
+      "title": "Distinguished Graduate Student Assistantship",
+      "date": "2020-08",
+      "awarder": "Texas Tech University"
+    }
+  ],
+  "publications": [
+    {
+      "name": "A Digital Beamforming Fast-Start Passive Radar for Indoor Motion Detection and Angle Estimation",
+      "publisher": "IEEE Transactions on Microwave Theory and Techniques",
+      "releaseDate": "2024",
+      "summary": "This work presents a 16-channel passive sensor that uses digital beamforming and an integrated fast-start amplifier to accomplish motion detection and angle estimation using ubiquitous wireless signals. The results of this work show good agreement with proposed signal models and simulations, and showed potential in detecting small motions such as human vital signs."
+    },
+    {
+      "name": "Low-Cost Fast-Start Amplifier Architecture for AC-Coupled Measurement of Low-Frequency Signals",
+      "publisher": "IEEE Sensors Letters",
+      "releaseDate": "2024-05",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10480127/",
+      "summary": "This paper presents a low-cost baseband amplifier which uses two commercial diodes to accomplish fast start. Compared to the state-of-the-art, the proposed amplifier is considerably simpler than DC-coupled solutions and uses only two additional components to provide a greatly accelerated startup time."
+    },
+    {
+      "name": "Reconfigurable FMCW Resolution Improvement Using Adaptive Cancellation",
+      "publisher": "IEEE Microwave and Wireless Technology Letters",
+      "releaseDate": "2024",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10477959/",
+      "summary": "This paper proposes a feedforward cancellation approach to static clutter cancellation in FMCW radar. Experimental results are compared against the developed theory, which shows potential to remove the impacts of stationary clutter in FMCW sensing."
+    },
+    {
+      "name": "Secure Occupancy Sensing with Passive Radar for Spectrally Congested Spaces",
+      "publisher": "2024 IEEE Topical Conference on Wireless Sensors and Sensor Networks",
+      "releaseDate": "2024-01",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10438500/",
+      "summary": "This paper, written in collaboration with a visiting high-school researcher, studies the potential to use passive radar in a secure occupancy sensing application. Results show good potential for use in an undetectable occupancy sensor."
+    },
+    {
+      "name": "A Digital Beamforming Approach for Indoor Passive Sensing",
+      "publisher": "2024 IEEE Topical Conference on Wireless Sensors and Sensor Networks",
+      "releaseDate": "2024-01",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10438569/",
+      "summary": "This paper presents a digital beamforming model that can be used with passive radar sensors. The theory is first developed and verified through an RF time-domain and closed-form baseband simulation, and is then verified by a 2-channel passive sensor. Results show good agreement with expected values, setting a foundation for future works."
+    },
+    {
+      "name": "Recent Progress in Passive Sensing Leveraging Advanced Circuit Techniques",
+      "publisher": "2023 Asia-Pacific Microwave Conference",
+      "releaseDate": "2023-12",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10439872/",
+      "summary": "This work reviews recent advances in passive sensing in automotive applications using novel antenna arrays, where a nonuniform linear array can be used alongside Doppler ambiguity removal to localize targets. In addition, passive radar motion sensors are reviewed including interferometric approaches and self-injection-locked approaches."
+    },
+    {
+      "name": "Null/Optimum Point Optimization for Indoor Passive Radar Motion Sensing",
+      "publisher": "2023 IEEE Radar Conference",
+      "releaseDate": "2023-05",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10149758/",
+      "summary": "This study further develops passive sensing signal models to analyze the impacts of null-points on motion sensing. Analysis revealed elliptically distributed null points around the sensor-transmitter pair. Using frequency- and spatially-diverse systems is revealed to offer a route to improved coverage using simple passive sensors."
+    },
+    {
+      "name": "Passive Multistatic Wireless Sensing Based on Discrete LNA/Mixer Co-Optimization and Fast-Startup Baseband Amplifier",
+      "publisher": "2023 IEEE Topical Conference on Wireless Sensors and Sensor Networks",
+      "releaseDate": "2023-01",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10046263/",
+      "summary": "This paper presents a passive sensor operating in the 5.8-GHz Wi-Fi band which uses a custom LNA and mixer alongside a fast-startup baseband amplifier. Experimental results show the ability to precisely detect mm-scale motion frequencies."
+    },
+    {
+      "name": "A Novel Wavelength-Division Differential Detection Technique for Microwave Pulse Oximetry",
+      "publisher": "2021 Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)",
+      "releaseDate": "2021-11",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9630442/",
+      "summary": "This paper proposes a novel wavelength-division technique to accomplish microwave pulse oximetry. A full-wave simulation using COMSOL Multiphysics is carried out to quantify the performance of the sensor, while a MATLAB simulation is used to create an example time-domain response."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Microwave Engineering",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Microwave Circuit Design (Cadence AWR)",
+        "Antenna Design (Ansys HFSS)",
+        "Full-Wave Simulation (COMSOL)",
+        "Microwave PCB Layout (KiCAD, EAGLE)",
+        "Radar System Design (Cadence VSS)",
+        "Radar System Test (VNA, Spectrum Analyzer, Signal Source)",
+        "Radar Signal Processing (MATLAB, Python)",
+        "Radar Signal Modeling (MATLAB, Python)"
+      ]
+    }, 
+    {
+      "name": "Electrical Engineering",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Analog Circuit Design (LTSpice, Cadence Virtuoso)",
+        "High-Voltage Circuit Design (Cadence Virtuoso)",
+        "PCB Design and Layout (KiCAD, EAGLE)",
+        "General Purpose Test and Debug (Power Supply, Function Generator, VNA, Spectrum Analyzer, Signal Source)",
+        "Radar System Test (VNA, Spectrum Analyzer, Signal Source)",
+        "Radar Signal Processing (MATLAB, Python)",
+        "Radar Signal Modeling (MATLAB, Python)",
+        "SMD Soldering (0201)"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MATLAB",
+        "Python",
+        "C/C++",
+        "Verilog"
+      ]
+    },
+    {
+      "name": "Leadership",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Lab Safety",
+        "Public Speaking",
+        "Team Leadership",
+        "Communication Skills"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Novel Radar Sensors",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Passive Sensor Design",
+        "Radar Signal Processing",
+        "Radar Signal/Propagation Modeling",
+        "Analog Circuits for Radar Systems"
+      ]
+    }
+  ]
+}
