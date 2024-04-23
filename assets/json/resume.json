@@ -116,6 +116,18 @@
   ],
   "publications": [
     {
+      "name": "Fast Startup Baseband Amplifier (Pending)",
+      "publisher": "US Patent Application",
+      "releaseDate": "2024-01",
+      "summary": "This patent application presents the analog fast-start circuit used to provide low-frequency AC-coupled amplification while maintaining low start times."
+    },
+    {
+      "name": "Wide Bandgap Optical Phased Arrays (OPAs) and Methods Related Thereto (Pending)",
+      "publisher": "US Patent Application",
+      "releaseDate": "2023-04",
+      "summary": "This patent application shows methods and underlying circuitry dedicated to producing and driving optical phased arrays."
+    },
+    {
       "name": "A Digital Beamforming Fast-Start Passive Radar for Indoor Motion Detection and Angle Estimation",
       "publisher": "IEEE Transactions on Microwave Theory and Techniques",
       "releaseDate": "2024",
