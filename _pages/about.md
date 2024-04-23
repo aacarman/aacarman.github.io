@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here or here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Aaron Carman is a Ph.D. candidate in the Electrical and Computer Engineering Department at Texas Tech University. Aaron began pursuing his Ph.D. after completing his bachelor's degree at Texas Tech in 2020. Before entering graduate school, he worked as a student engineer in the Defense and Intelligence Solutions division of the Southwest Research Institute and as an undergraduate researcher in the RF/Analog Research group at Texas Tech. He also served as the president of the Gamma Nu chapter of IEEE-HKN. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Since 2020, he has worked with the Texas Tech Nanophotonics Center on modeling and developing advanced optical phased array. During graduate school, he was awarded the Distinguished Graduate Student Assistantship, the SAE Doctoral Engineering Scholarship, the NXP Foundation Graduate Fellowship, and the Doctoral Disseration Completion Fellowship for his research efforts and his education goals. In addition, he received an honorable mention in the NSF’s Graduate Research Fellowship. Mr. Carman’s research focuses on novel radar-based sensors for life-activity sensing, indoor sensing, and robust industrial measurement.
