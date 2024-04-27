@@ -33,6 +33,14 @@
   ],
   "volunteer": [
     {
+      "organization": "Texas Tech University Clark Scholar Program",
+      "location": "Lubbock, TX",
+      "position": "PhD Mentor",
+      "startDate": "2023",
+      "endDate": "2023",
+      "summary": "Mentored a visiting high-school student and provided a background to conducing university research. This program resulted in a publication from the visiting student in a peer-reviewed IEEE conference."
+    },
+    {
       "organization": "Science Spectrum",
       "location": "Lubbock, TX",
       "position": "STEM Instructor",
