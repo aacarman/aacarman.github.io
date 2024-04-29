@@ -124,6 +124,12 @@
   ],
   "publications": [
     {
+      "name": "Feasibility Study of Employing MIMO SFCW Radar using Doppler Division Multiple Access",
+      "publisher": "2024 IEEE Texas Symposium on Wireless and Microwave Circuits and Systems",
+      "releaseDate": "2024-04",
+      "summary": "The paper presents a feasibility study in using Doppler division multiple access in an SFCW radar system. A bespoke simulation is developed to accomplish this study, with results showing promise for future works."
+    },
+    {
       "name": "Fast Startup Baseband Amplifier (Pending)",
       "publisher": "US Patent Application",
       "releaseDate": "2024-01",
